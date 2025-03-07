@@ -1,0 +1,10 @@
+C:\Users\Juan Jose\source\repos\InventarioProductos\InventarioProductos\bin\Debug\InventarioProductos.exe.config
+C:\Users\Juan Jose\source\repos\InventarioProductos\InventarioProductos\bin\Debug\InventarioProductos.exe
+C:\Users\Juan Jose\source\repos\InventarioProductos\InventarioProductos\bin\Debug\InventarioProductos.pdb
+C:\Users\Juan Jose\source\repos\InventarioProductos\InventarioProductos\obj\Debug\InventarioProductos.csproj.AssemblyReference.cache
+C:\Users\Juan Jose\source\repos\InventarioProductos\InventarioProductos\obj\Debug\InventarioProductos.Form1.resources
+C:\Users\Juan Jose\source\repos\InventarioProductos\InventarioProductos\obj\Debug\InventarioProductos.Properties.Resources.resources
+C:\Users\Juan Jose\source\repos\InventarioProductos\InventarioProductos\obj\Debug\InventarioProductos.csproj.GenerateResource.cache
+C:\Users\Juan Jose\source\repos\InventarioProductos\InventarioProductos\obj\Debug\InventarioProductos.csproj.CoreCompileInputs.cache
+C:\Users\Juan Jose\source\repos\InventarioProductos\InventarioProductos\obj\Debug\InventarioProductos.exe
+C:\Users\Juan Jose\source\repos\InventarioProductos\InventarioProductos\obj\Debug\InventarioProductos.pdb
